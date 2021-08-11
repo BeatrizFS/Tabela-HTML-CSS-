@@ -1,1 +1,3 @@
-# Web1Ava2
+# Calculadora 
+#(Adição, Subtração, Multiplicação, Divisão, Raiz quadrada)
+# Diciplina: Web I
